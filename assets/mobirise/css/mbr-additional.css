@@ -51,10 +51,10 @@ body {
 }
 .display-7 {
   font-family: 'EB Garamond', serif;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 2.88rem;
+  font-size: 2.56rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -656,13 +656,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'EB Garamond', serif;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 2.88rem;
+  font-size: 2.56rem;
 }
 .form-control,
 .form-control:focus {
@@ -1412,7 +1412,7 @@ body {
 .cid-qI8mmLTV5Q {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #31383e;
+  background-color: #ffffff;
 }
 .cid-qI8mmLTV5Q .mbr-section-subtitle {
   color: #cbaf74;
@@ -1497,18 +1497,63 @@ body {
     font-size: 0.8rem;
   }
 }
-.cid-qI8wO4pLAo {
-  padding-top: 60px;
-  padding-bottom: 45px;
-  background-color: #31383e;
+.cid-qI8DU5MowH {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/iceland-2608985-1921-1920x1200.jpg");
 }
-.cid-qI8wO4pLAo .mbr-text,
-.cid-qI8wO4pLAo blockquote {
-  color: #767676;
+.cid-qI8DU5MowH .media-container-column {
+  align-items: center;
 }
-.cid-qI8wO4pLAo .mbr-text DIV {
+.cid-qI8DU5MowH .mbr-author-desc {
+  display: block;
+}
+.cid-qI8DU5MowH .mbr-testimonial {
+  flex-basis: auto;
+  margin-top: 5rem;
+  margin-top: 3rem;
+}
+.cid-qI8DU5MowH .mbr-testimonial .panel-item {
+  background-color: #232323;
+  background: linear-gradient(#232323, transparent);
+}
+.cid-qI8DU5MowH .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2rem;
+}
+.cid-qI8DU5MowH .mbr-testimonial .card-block .testimonial-photo {
+  margin-top: -5rem;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-qI8DU5MowH .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-qI8DU5MowH .mbr-testimonial .card-block p {
+  margin: 0;
+}
+.cid-qI8DU5MowH .mbr-testimonial .card-footer {
+  padding: 0 2rem 2rem 2rem;
+  border-top: 0;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 260px) {
+  .cid-qI8DU5MowH .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+.cid-qI8DU5MowH .mbr-text {
   color: #cbaf74;
-  text-align: center;
 }
 .cid-qI8rzIoI6Y {
   padding-top: 90px;
