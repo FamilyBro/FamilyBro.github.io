@@ -1610,3 +1610,24 @@ body {
   display: block;
   text-align: center;
 }
+.cid-qIeNL7ScGc {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background: #31383e;
+}
+.cid-qIeNL7ScGc .image-block {
+  margin: auto;
+}
+.cid-qIeNL7ScGc figcaption {
+  position: relative;
+}
+.cid-qIeNL7ScGc figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qIeNL7ScGc .image-block {
+    width: 100% !important;
+  }
+}
