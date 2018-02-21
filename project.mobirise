@@ -43,7 +43,7 @@
     "versionPublish": "4.6.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/fav.png",
-    "noImageResize": "true",
+    "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
     "siteUrl": "undefined"
