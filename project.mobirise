@@ -42,7 +42,7 @@
     "uniqCompNum": 10,
     "versionPublish": "4.6.3",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/schermata-2018-02-21-alle-10.53.38-128x37.png",
+    "favicon": "@PROJECT_PATH@/assets/images/fav.png",
     "noImageResize": "true",
     "cookiesAlert": "",
     "google-analytics": "",
