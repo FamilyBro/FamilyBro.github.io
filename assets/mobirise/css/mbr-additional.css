@@ -1,6 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i);
 
 
 
@@ -23,12 +22,12 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Oswald', sans-serif;
-  font-size: 4.4rem;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.6rem;
 }
 .display-2 {
   font-family: 'Roboto', sans-serif;
-  font-size: 2.6rem;
+  font-size: 2.2rem;
 }
 .display-4 {
   font-family: 'Roboto', sans-serif;
@@ -49,14 +48,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.52rem;
-    font-size: calc( 2.19rem + (4.4 - 2.19) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.19rem + (4.4 - 2.19) * ((100vw - 20rem) / (48 - 20))));
-  }
-  .display-2 {
     font-size: 2.08rem;
     font-size: calc( 1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20)));
     line-height: calc( 1.4 * (1.56rem + (2.6 - 1.56) * ((100vw - 20rem) / (48 - 20))));
+  }
+  .display-2 {
+    font-size: 1.76rem;
+    font-size: calc( 1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 1.6rem;
@@ -910,10 +909,10 @@ pre {
 }
 /*Menu*/
 .display-1 > .mbr-iconfont {
-  font-size: 7.04rem;
+  font-size: 4.16rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.16rem;
+  font-size: 3.52rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 3.2rem;
@@ -968,22 +967,22 @@ body {
     width: 50% !important;
   }
 }
-.cid-qM6hm4Ve6X {
-  padding-top: 120px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/fds-2-960x635.jpg");
+.cid-qKd5gBUcWJ {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/2018-02-20-photo-9990-1600x1200.jpg");
 }
-.cid-qM6hm4Ve6X .media-container-column .btn-bgr {
+.cid-qKd5gBUcWJ .media-container-column .btn-bgr {
   z-index: 0;
 }
-.cid-qM6hm4Ve6X .mbr-overlay {
-  background: #c33764;
-  background: linear-gradient(#c33764 -10%, #1d2671 75%);
+.cid-qKd5gBUcWJ .mbr-overlay {
+  background: #1d2671;
+  background: linear-gradient(#1d2671 -10%, #c0bb12 75%);
 }
-.cid-qM6hm4Ve6X .mbr-section-title {
+.cid-qKd5gBUcWJ .mbr-section-title {
   margin: 0;
 }
-.cid-qM6hm4Ve6X .separator {
+.cid-qKd5gBUcWJ .separator {
   background-color: #ffffff;
   color: #ffffff;
   align: center;
@@ -991,6 +990,12 @@ body {
   max-width: 125px;
   margin-left: auto;
   margin-right: auto;
+}
+.cid-qKd5gBUcWJ H3 {
+  color: #ffffff;
+}
+.cid-qKd5gBUcWJ B {
+  color: #ffffff;
 }
 .cid-qKhlTh90AR {
   padding-top: 40px;
