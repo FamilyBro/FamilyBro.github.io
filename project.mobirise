@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "KEEP THE SECRET",
+    "name": "Keep The Secret",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 41,
@@ -45,7 +45,7 @@
     "google-analytics": "",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "on",
+    "robotsSwitcher": "",
     "sitemapSwitcherAuto": "on",
     "siteFonts": [
       {
